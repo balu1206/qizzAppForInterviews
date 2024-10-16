@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.navbar-links ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  list-style-type: none;
+}
+.navbar-links ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.home a {
+  text-decoration: none;
+  color: #fff;
+}
